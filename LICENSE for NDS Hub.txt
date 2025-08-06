@@ -1,3 +1,5 @@
+-- Natural Disaster Survival Hub From: https://scriptblox.com/script/Natural-Disaster-Survival-Katers-NDS-Hub-19533
+
 MIT License
 
 Copyright (c) 2025 KaterHub Projects
