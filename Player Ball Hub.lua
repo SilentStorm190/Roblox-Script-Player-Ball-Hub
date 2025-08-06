@@ -1,6 +1,7 @@
 -- Player Ball Roblox Exploit Script
 -- roll like a ball, or experience 0 gravity!
 -- other features included
+-- discord username credits: minishakk for the ragdoll script
 
 
 
